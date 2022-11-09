@@ -9,6 +9,6 @@ public class Operators {
         System.out.println(isStudent && isTall); //All must be true, otherwise is false (AND)
         System.out.println(isStudent || isTall); //If there are any true, it's true, otherwise is false (OR)
         System.out.println(!isStudent || isTall); //The operator ! flip the value (NOT)
-
+        System.out.println(isStudent ^ isTall);   // Return true if one or the other is true, but not both. (XOR)
     }
 }

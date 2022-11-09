@@ -13,10 +13,10 @@ public class IfStatements {
 
         int valor = 9;
         if(valor!=10) {
-            System.out.println("Es correcto");
+            System.out.println("Right");
         }
         else if(valor > 1) {
-            System.out.println("Right");
+            System.out.println("Right2");
         }
         else {
             System.out.println("Lie");

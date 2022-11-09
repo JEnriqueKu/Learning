@@ -13,6 +13,7 @@ public class Variables {
         boolean aBoolean = false;
         byte aByte = 127;
 
+
         System.out.println(aValue);
         System.out.println(aShort);
         System.out.println(aLong);

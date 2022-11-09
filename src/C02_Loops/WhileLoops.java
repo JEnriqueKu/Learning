@@ -7,6 +7,7 @@ public class WhileLoops {
     public static void main(String[] args) {
         Scanner value = new Scanner(System.in);
         int number;
+
         do {
             System.out.println("Guess the number");
             number = value.nextInt();
